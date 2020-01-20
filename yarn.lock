@@ -1785,10 +1785,10 @@ generate-object-property@^1.0.0:
   dependencies:
     is-property "^1.0.0"
 
-generate-password@1.4.2:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/generate-password/-/generate-password-1.4.2.tgz#77f344ec525f3bfdc1e50899c09e3c46ddb95dfd"
-  integrity sha512-UYEOMRcnpC/228qfCQNSebq8jmIonoPYPILsZl2NmH16Vm53yPvgo/KK3BYeCA3JmhSA/a/HqHzaY0v5dRbyoQ==
+generate-password@1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/generate-password/-/generate-password-1.5.0.tgz#9e734f2f7bb55e08bd3efa08793048d34e742b65"
+  integrity sha512-rGb6xNK6BRdShUQ1FDPD6WgjrrIaBHZm+dhRlw7XjoBXciEn9RiNMNitIRC2ffSSVm3q9mt+ygetJK7450W/uA==
 
 get-caller-file@^1.0.1:
   version "1.0.3"
